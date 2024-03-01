@@ -1,2 +1,2 @@
-# Examination-Javascript---Solaris
-Individuell examinationsuppgift i Javascript (Solaris)
+Rebecca Sighed Paemurd
+Individuell uppgift i Kursen Javascript
